@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bindings xmlns="http://java.sun.com/xml/ns/jaxb" if-exists="true" version="2.1">
+      
+    <!--
+
+Este archivo ha sido generado por la arquitectura JavaTM para la implantación de la referencia de enlace (JAXB) XML v2.3.0 
+Visite <a href="https://javaee.github.io/jaxb-v2/">https://javaee.github.io/jaxb-v2/</a> 
+Todas las modificaciones realizadas en este archivo se perderán si se vuelve a compilar el esquema de origen. 
+Generado el: 2023.07.23 a las 03:29:44 PM COT 
+
+  -->
+      
+    <bindings xmlns:tns="http://www.sealmail.co/" if-exists="true" scd="x-schema::tns">
+            
+        <schemaBindings map="false">
+                  
+            <package name="co.com.spn.cun3.webService"/>
+                
+        </schemaBindings>
+            
+        <bindings if-exists="true" scd="tns:RegistrarMensajeRequest">
+                  
+            <class ref="co.com.spn.cun3.webService.RegistrarMensajeRequest"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:RegistrarMensajeResponse">
+                  
+            <class ref="co.com.spn.cun3.webService.RegistrarMensajeResponse"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:RegistrarMensajesMassRequest">
+                  
+            <class ref="co.com.spn.cun3.webService.RegistrarMensajesMassRequest"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:adjuntos">
+                  
+            <class ref="co.com.spn.cun3.webService.Adjuntos"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:RegistrarMensajesMassResponse">
+                  
+            <class ref="co.com.spn.cun3.webService.RegistrarMensajesMassResponse"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:ObtenerTokenRequest">
+                  
+            <class ref="co.com.spn.cun3.webService.ObtenerTokenRequest"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:ObtenerTokenResponse">
+                  
+            <class ref="co.com.spn.cun3.webService.ObtenerTokenResponse"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:GuardarLogRequest">
+                  
+            <class ref="co.com.spn.cun3.webService.GuardarLogRequest"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:GuardarLogResponse">
+                  
+            <class ref="co.com.spn.cun3.webService.GuardarLogResponse"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:EstadoServicioRequest">
+                  
+            <class ref="co.com.spn.cun3.webService.EstadoServicioRequest"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:EstadoServicioResponse">
+                  
+            <class ref="co.com.spn.cun3.webService.EstadoServicioResponse"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:CrearIdentidadRequest">
+                  
+            <class ref="co.com.spn.cun3.webService.CrearIdentidadRequest"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:CrearIdentidadResponse">
+                  
+            <class ref="co.com.spn.cun3.webService.CrearIdentidadResponse"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:ObtenerAdjuntosRequest">
+                  
+            <class ref="co.com.spn.cun3.webService.ObtenerAdjuntosRequest"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:ObtenerAdjuntosResponse">
+                  
+            <class ref="co.com.spn.cun3.webService.ObtenerAdjuntosResponse"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:RegistrarMensajesRequest">
+                  
+            <class ref="co.com.spn.cun3.webService.RegistrarMensajesRequest"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:RegistrarMensajesResponse">
+                  
+            <class ref="co.com.spn.cun3.webService.RegistrarMensajesResponse"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:ReporteEnviosRequest">
+                  
+            <class ref="co.com.spn.cun3.webService.ReporteEnviosRequest"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:ReporteEnviosResponse">
+                  
+            <class ref="co.com.spn.cun3.webService.ReporteEnviosResponse"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:RegistrarUsuarioRequest">
+                  
+            <class ref="co.com.spn.cun3.webService.RegistrarUsuarioRequest"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:RegistrarUsuarioResponse">
+                  
+            <class ref="co.com.spn.cun3.webService.RegistrarUsuarioResponse"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:EliminarCupoRequest">
+                  
+            <class ref="co.com.spn.cun3.webService.EliminarCupoRequest"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:EliminarCupoResponse">
+                  
+            <class ref="co.com.spn.cun3.webService.EliminarCupoResponse"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:RegistrarMensajeSMSRequest">
+                  
+            <class ref="co.com.spn.cun3.webService.RegistrarMensajeSMSRequest"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:RegistrarMensajeSMSResponse">
+                  
+            <class ref="co.com.spn.cun3.webService.RegistrarMensajeSMSResponse"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:RegistrarMensajeSMSAdjuntoRequest">
+                  
+            <class ref="co.com.spn.cun3.webService.RegistrarMensajeSMSAdjuntoRequest"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:RegistrarMensajeSMSAdjuntoResponse">
+                  
+            <class ref="co.com.spn.cun3.webService.RegistrarMensajeSMSAdjuntoResponse"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:ObtenerTokenSMSRequest">
+                  
+            <class ref="co.com.spn.cun3.webService.ObtenerTokenSMSRequest"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:ObtenerTokenSMSResponse">
+                  
+            <class ref="co.com.spn.cun3.webService.ObtenerTokenSMSResponse"/>
+                
+        </bindings>
+          
+    </bindings>
+    
+</bindings>

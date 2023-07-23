@@ -1,0 +1,1 @@
+cd ../Cun3_Front && quasar build && cd .. && cd ./Cun3_Spring && mvn clean && mvn package

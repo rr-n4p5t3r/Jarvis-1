@@ -9,12 +9,14 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>co.com.spn</groupId>
-    <artifactId>jarvis</artifactId>
-    <version>1.2.0</version>
+    <artifactId>Jarvis</artifactId>
+    <version>1.0</version>
     <name>Jarvis</name>
-    <description>Jarvis para su servicio</description>
+    <description>Soy un sistema de información, escrito en Java y diseñado para automatizar procesos de consolidación de información, recorriendo la cuenta de correo electrónico autorizada para envío y recibo de notificaciones, consumir los servicios web del sistema Andess y procesar los datos a través del motor de base de datos postgreSQL.</description>
     <properties>
         <java.version>11</java.version>
+        <maven.compiler.source>20</maven.compiler.source>
+        <maven.compiler.target>20</maven.compiler.target>
     </properties>
     <dependencies>
         <dependency>

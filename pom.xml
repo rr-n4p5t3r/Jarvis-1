@@ -169,7 +169,7 @@
         <dependency>
             <groupId>com.microsoft.azure</groupId>
             <artifactId>msal4j</artifactId>
-            <version>1.13.2</version>
+            <version>1.22.0</version>
         </dependency>
 
         <!-- Fin dependencias de auth0 de microsoft -->
